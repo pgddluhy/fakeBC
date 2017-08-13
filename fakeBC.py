@@ -249,14 +249,14 @@ class FakeData:
 
 # Uncomment to test Data class
 
-data_test = FakeData(split_name=False, split_addr=True)
+# data_test = FakeData(split_name=False, split_addr=True)
 # data_test.generate_wage()
 # data_test.generate_address()
 # data_test.generate_sin()
 # data_test.generate_name()
 # data_test.generate_job()
 # print(data_test.data_dict)
-data_test.generate_sheet(job=True, num_records=2000)
+# data_test.generate_sheet(job=True, num_records=2000)
 # data_test_df = data_test.to_dataframe()
 # print(data_test_df.head(5))
 
