@@ -208,15 +208,11 @@ class FakeData:
         :param num_records: Number of records to generate in data_dict
         :type num_records: int
         :param name: True to generate num_records names
-        :type name: bool
         :param sin: True to generate num_records SINs
-        :type sin: bool
         :param address: True to generate num_records addresses
-        :type address: bool
         :param wage: True to generate num_records wage values
-        :type wage: bool
         :param job: True to generate num_records job types
-        :type job: bool
+
         :return: self with num_records entries in each of the fields specified as True
         """
         if name:
