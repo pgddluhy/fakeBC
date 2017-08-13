@@ -1,4 +1,4 @@
-Overview
+Overview:
 
 fakeBC is a module that generates fake data specific for the Canadian province of British Columbia.
 
@@ -60,6 +60,7 @@ out:
 ```
 
 Packages used:
+
 Faker 0.7.12 https://pypi.python.org/pypi/Faker
 
 Pandas 0.18.1 http://pandas.pydata.org
